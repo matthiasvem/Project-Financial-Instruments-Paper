@@ -5,6 +5,10 @@ Mátyás Varga-Etele s1121420
 
 # Navigation for the files
 
+-- Folder Paper --
+
+This folder includes the pdf and the word version of the paper, plus the self reflection as well.
+
 -- Folder Illustrations --
 
 Folder Illustrations has all the files produced by the Coding_Illustrations.py file.
